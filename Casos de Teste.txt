@@ -1,0 +1,5 @@
+Verificar se replica peça;
+Verificar se a peça salta;
+Verificar se transforma a peça adversária;
+Verificar condição de vitória;
+Verificar se jogada é válida;
